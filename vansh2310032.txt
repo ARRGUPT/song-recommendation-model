@@ -1,3 +1,4 @@
 26/10/2024: Login page and sign up page .
 27/10/2024: Profile creation page, preference page and player added.
+28/10/2024: Search page, What's New section and favourite page added.
 Figma link: https://www.figma.com/design/8j2sNOcETFpym7NM3g40rw/Group-Project-MUSICWS?node-id=0-1&t=J0odVWW47JYlxtru-1 
